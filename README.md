@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/kushed3d/kushed3d/blob/main/utils/bumblebee.png">
+  <img src="https://github.com/kushed3d/kushed3d/blob/main/utils/bumblebeebot.png">
 </p>
 
 ## Information ##
