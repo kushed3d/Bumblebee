@@ -4,6 +4,7 @@
     { "source": "/docs", "destination": "/docs_page.html" },
     { "source": "/privacy", "destination": "/privacy_policy.html" },
     { "source": "/staff", "destination": "/staff.html" },
+    { "source": "/kush", "destination": "/kush.html" },
     { "source": "/enter", "destination": "/enter.html" }
   ]
 }
