@@ -1,5 +1,10 @@
 {
   "rewrites": [
     { "source": "/(.*)", "destination": "/" }
+    { "source": "/tos", "destination": "tos_page.html" },
+    { "source": "/docs", "destination": "/docs_page.html" },
+    { "source": "/privacy", "destination": "/privacy_policy.html" },
+    { "source": "/staff", "destination": "/staff.html" },
+    { "source": "/enter", "destination": "/enter.html" }
   ]
 }
