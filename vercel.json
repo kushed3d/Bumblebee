@@ -5,18 +5,7 @@
     { "source": "/privacy", "destination": "/privacy_policy.html" },
     { "source": "/staff", "destination": "/staff.html" },
     { "source": "/kush", "destination": "/kush.html" },
+    { "source": "/404", "destination": "/404.html" },
     { "source": "/enter", "destination": "/enter.html" }
-  ],
-  "redirects": [
-    {
-      "source": "/404",
-      "destination": "/404.html",
-      "statusCode": 404
-    }
-  ],
-  "fallbacks": {
-    "source": "/(.*)",
-    "destination": "/404.html",
-    "statusCode": 404
-  }
+  ]
 }
