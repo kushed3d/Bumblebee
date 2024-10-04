@@ -9,9 +9,14 @@
   ],
   "redirects": [
     {
-      "source": "/(.*)",
+      "source": "/404",
       "destination": "/404.html",
       "statusCode": 404
     }
-  ]
+  ],
+  "fallbacks": {
+    "source": "/(.*)",
+    "destination": "/404.html",
+    "statusCode": 404
+  }
 }
