@@ -6,5 +6,12 @@
     { "source": "/staff", "destination": "/staff.html" },
     { "source": "/kush", "destination": "/kush.html" },
     { "source": "/enter", "destination": "/enter.html" }
+  ],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "/404.html",
+      "statusCode": 404
+    }
   ]
 }
